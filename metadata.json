@@ -1,0 +1,6 @@
+{
+  "name": "AUDITORIAPLUS+ Fase 2",
+  "description": "Sistema de gestión y reconciliación de auditoría de inventario conectado a Supabase y Edge Functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
